@@ -18,7 +18,7 @@ include('../template/header.php');
       <div class="row">
         <div class="col">
           <div class="list-group">
-            <a href="<?php echo $url['base_url'];?>view/html/pendahuluan.php" class="list-group-item list-group-item-action"> 1# Pengenalan HTML </a>
+            <a href="<?php echo $url['base_url'];?>view/htmlpendahuluan.php" class="list-group-item list-group-item-action"> 1# Pengenalan HTML </a>
             <a href="#" class="list-group-item list-group-item-action">2# Membuat TAG,Elemen,Atribut HTML</a>
             <a href="#" class="list-group-item list-group-item-action">3# Membuat Paragrafh HTML</a>
             <a href="#" class="list-group-item list-group-item-action">4# Membuat Heading HTML</a>
